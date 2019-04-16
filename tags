@@ -1,0 +1,135 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/95975bd/
+Aliases	README.md	/^## Aliases$/;"	s
+App	README.md	/^#### App$/;"	t
+Auth	README.md	/^#### Auth$/;"	t
+Cache	README.md	/^#### Cache$/;"	t
+Common	README.md	/^#### Common $/;"	t
+Config	README.md	/^#### Config$/;"	t
+Example	README.md	/^## Example$/;"	s
+General	README.md	/^#### General$/;"	t
+Horizon	README.md	/^#### Horizon$/;"	t
+Installation on oh-my-zsh	README.md	/^## Installation on oh-my-zsh$/;"	s
+License	README.md	/^## License$/;"	s
+Make	README.md	/^#### Make$/;"	t
+Migrate	README.md	/^#### Migrate$/;"	t
+Notifications	README.md	/^#### Notifications$/;"	t
+Old framework versions commands	README.md	/^#### Old framework versions commands$/;"	t
+Optimize	README.md	/^#### Optimize$/;"	t
+Package	README.md	/^#### Package$/;"	t
+Passport package	README.md	/^#### Passport package $/;"	t
+Queue	README.md	/^#### Queue$/;"	t
+Route	README.md	/^#### Route$/;"	t
+Schedule	README.md	/^#### Schedule$/;"	t
+Session	README.md	/^#### Session$/;"	t
+Storage	README.md	/^#### Storage$/;"	t
+Vendor	README.md	/^#### Vendor$/;"	t
+View	README.md	/^#### View$/;"	t
+a	laravel-artisan.plugin.zsh	/^alias a='artisan'$/;"	a
+aacr	laravel-artisan.plugin.zsh	/^alias aacr='artisan auth:clear-resets'$/;"	a
+aanm	laravel-artisan.plugin.zsh	/^alias aanm='artisan app:name'$/;"	a
+acc	laravel-artisan.plugin.zsh	/^alias acc='artisan clear-compiled'$/;"	a
+accl	laravel-artisan.plugin.zsh	/^alias accl='artisan cache:clear'$/;"	a
+acfcc	laravel-artisan.plugin.zsh	/^alias acfcc='artisan config:cache'$/;"	a
+acfcl	laravel-artisan.plugin.zsh	/^alias acfcl='artisan config:clear'$/;"	a
+acfg	laravel-artisan.plugin.zsh	/^alias acfg='artisan cache:forget'$/;"	a
+actb	laravel-artisan.plugin.zsh	/^alias actb='artisan cache:table'$/;"	a
+ad	laravel-artisan.plugin.zsh	/^alias ad='artisan down'$/;"	a
+adbs	laravel-artisan.plugin.zsh	/^alias adbs='artisan db:seed'$/;"	a
+ae	laravel-artisan.plugin.zsh	/^alias ae='artisan env'$/;"	a
+aeg	laravel-artisan.plugin.zsh	/^alias aeg='artisan event:generate'$/;"	a
+afr	laravel-artisan.plugin.zsh	/^alias afr='artisan fresh'$/;"	a
+ah	laravel-artisan.plugin.zsh	/^alias ah='artisan help'$/;"	a
+ahcm	laravel-artisan.plugin.zsh	/^alias ahcm='artisan handler:command'$/;"	a
+ahev	laravel-artisan.plugin.zsh	/^alias ahev='artisan handler:event'$/;"	a
+ahz	laravel-artisan.plugin.zsh	/^alias ahz='artisan horizon'$/;"	a
+ahzas	laravel-artisan.plugin.zsh	/^alias ahzas='artisan horizon:assets'$/;"	a
+ahzct	laravel-artisan.plugin.zsh	/^alias ahzct='artisan horizon:continue'$/;"	a
+ahzls	laravel-artisan.plugin.zsh	/^alias ahzls='artisan horizon:list'$/;"	a
+ahzpg	laravel-artisan.plugin.zsh	/^alias ahzpg='artisan horizon:purge'$/;"	a
+ahzps	laravel-artisan.plugin.zsh	/^alias ahzps='artisan horizon:pause'$/;"	a
+ahzss	laravel-artisan.plugin.zsh	/^alias ahzss='artisan horizon:snapshot'$/;"	a
+ahzsv	laravel-artisan.plugin.zsh	/^alias ahzsv='artisan horizon:supervisor'$/;"	a
+ahzsvs	laravel-artisan.plugin.zsh	/^alias ahzsvs='artisan horizon:supervisors'$/;"	a
+ahztm	laravel-artisan.plugin.zsh	/^alias ahztm='artisan horizon:terminate'$/;"	a
+ahzto	laravel-artisan.plugin.zsh	/^alias ahzto='artisan horizon:timeout'$/;"	a
+ahzwk	laravel-artisan.plugin.zsh	/^alias ahzwk='artisan horizon:work'$/;"	a
+ai	laravel-artisan.plugin.zsh	/^alias ai='artisan inspire'$/;"	a
+akg	laravel-artisan.plugin.zsh	/^alias akg='artisan key:generate'$/;"	a
+al	laravel-artisan.plugin.zsh	/^alias al='artisan list'$/;"	a
+amg	laravel-artisan.plugin.zsh	/^alias amg='artisan migrate'$/;"	a
+amgf	laravel-artisan.plugin.zsh	/^alias amgf='artisan migrate --force'$/;"	a
+amgfr	laravel-artisan.plugin.zsh	/^alias amgfr='artisan migrate:fresh'$/;"	a
+amgis	laravel-artisan.plugin.zsh	/^alias amgis='artisan migrate:install'$/;"	a
+amgp	laravel-artisan.plugin.zsh	/^alias amgp='artisan migrate --pretend'$/;"	a
+amgrb	laravel-artisan.plugin.zsh	/^alias amgrb='artisan migrate:rollback'$/;"	a
+amgrf	laravel-artisan.plugin.zsh	/^alias amgrf='artisan migrate:refresh'$/;"	a
+amgrs	laravel-artisan.plugin.zsh	/^alias amgrs='artisan migrate:reset'$/;"	a
+amgs	laravel-artisan.plugin.zsh	/^alias amgs='artisan migrate --seed'$/;"	a
+amgst	laravel-artisan.plugin.zsh	/^alias amgst='artisan migrate:status'$/;"	a
+amgt	laravel-artisan.plugin.zsh	/^alias amgt='artisan migrate --env=testing'$/;"	a
+amkau	laravel-artisan.plugin.zsh	/^alias amkau='art_make auth'$/;"	a
+amkch	laravel-artisan.plugin.zsh	/^alias amkch='art_make channel'$/;"	a
+amkcm	laravel-artisan.plugin.zsh	/^alias amkcm='art_make command'$/;"	a
+amkcs	laravel-artisan.plugin.zsh	/^alias amkcs='art_make console'$/;"	a
+amkct	laravel-artisan.plugin.zsh	/^alias amkct='art_make controller'$/;"	a
+amkctr	laravel-artisan.plugin.zsh	/^alias amkctr='art_make controller -r'$/;"	a
+amkev	laravel-artisan.plugin.zsh	/^alias amkev='art_make event'$/;"	a
+amkex	laravel-artisan.plugin.zsh	/^alias amkex='art_make exception'$/;"	a
+amkfc	laravel-artisan.plugin.zsh	/^alias amkfc='art_make factory'$/;"	a
+amkjb	laravel-artisan.plugin.zsh	/^alias amkjb='art_make job'$/;"	a
+amkls	laravel-artisan.plugin.zsh	/^alias amkls='art_make listener'$/;"	a
+amkmd	laravel-artisan.plugin.zsh	/^alias amkmd='art_make model'$/;"	a
+amkmdm	laravel-artisan.plugin.zsh	/^alias amkmdm='art_make model -m'$/;"	a
+amkmg	laravel-artisan.plugin.zsh	/^alias amkmg='art_make migration'$/;"	a
+amkml	laravel-artisan.plugin.zsh	/^alias amkml='art_make mail'$/;"	a
+amkmw	laravel-artisan.plugin.zsh	/^alias amkmw='art_make middleware'$/;"	a
+amknf	laravel-artisan.plugin.zsh	/^alias amknf='art_make notification'$/;"	a
+amkos	laravel-artisan.plugin.zsh	/^alias amkos='art_make observer'$/;"	a
+amkpl	laravel-artisan.plugin.zsh	/^alias amkpl='art_make policy'$/;"	a
+amkpv	laravel-artisan.plugin.zsh	/^alias amkpv='art_make provider'$/;"	a
+amkres	laravel-artisan.plugin.zsh	/^alias amkres='art_make resource'$/;"	a
+amkrl	laravel-artisan.plugin.zsh	/^alias amkrl='art_make rule'$/;"	a
+amkrq	laravel-artisan.plugin.zsh	/^alias amkrq='art_make request'$/;"	a
+amksd	laravel-artisan.plugin.zsh	/^alias amksd='art_make seeder'$/;"	a
+amkts	laravel-artisan.plugin.zsh	/^alias amkts='art_make test'$/;"	a
+anftb	laravel-artisan.plugin.zsh	/^alias anftb='artisan notifications:table'$/;"	a
+ao	laravel-artisan.plugin.zsh	/^alias ao='artisan optimize'$/;"	a
+aoc	laravel-artisan.plugin.zsh	/^alias aoc='artisan optimize:clear'$/;"	a
+ap	laravel-artisan.plugin.zsh	/^alias ap='artisan preset'$/;"	a
+apd	laravel-artisan.plugin.zsh	/^alias apd='artisan package:discover'$/;"	a
+apspc	laravel-artisan.plugin.zsh	/^alias apspc='artisan passport:client'$/;"	a
+apspi	laravel-artisan.plugin.zsh	/^alias apspi='artisan passport:install'$/;"	a
+apspk	laravel-artisan.plugin.zsh	/^alias apspk='artisan passport:keys'$/;"	a
+aqf	laravel-artisan.plugin.zsh	/^alias aqf='artisan queue:failed'$/;"	a
+aqfg	laravel-artisan.plugin.zsh	/^alias aqfg='artisan queue:forget'$/;"	a
+aqfl	laravel-artisan.plugin.zsh	/^alias aqfl='artisan queue:flush'$/;"	a
+aqft	laravel-artisan.plugin.zsh	/^alias aqft='artisan queue:failed-table'$/;"	a
+aqls	laravel-artisan.plugin.zsh	/^alias aqls='artisan queue:listen'$/;"	a
+aqrs	laravel-artisan.plugin.zsh	/^alias aqrs='artisan queue:restart'$/;"	a
+aqrt	laravel-artisan.plugin.zsh	/^alias aqrt='artisan queue:retry'$/;"	a
+aqss	laravel-artisan.plugin.zsh	/^alias aqss='artisan queue:subscribe'$/;"	a
+aqtb	laravel-artisan.plugin.zsh	/^alias aqtb='artisan queue:table'$/;"	a
+aqwk	laravel-artisan.plugin.zsh	/^alias aqwk='artisan queue:work'$/;"	a
+arcc	laravel-artisan.plugin.zsh	/^alias arcc='artisan route:cache'$/;"	a
+arcl	laravel-artisan.plugin.zsh	/^alias arcl='artisan route:clear'$/;"	a
+arls	laravel-artisan.plugin.zsh	/^alias arls='artisan route:list'$/;"	a
+art_make	laravel-artisan.plugin.zsh	/^function art_make() {$/;"	f
+artisan	laravel-artisan.plugin.zsh	/^function artisan() {$/;"	f
+as	laravel-artisan.plugin.zsh	/^alias as='artisan serve'$/;"	a
+asfn	laravel-artisan.plugin.zsh	/^alias asfn='artisan schedule:finish'$/;"	a
+asln	laravel-artisan.plugin.zsh	/^alias asln='artisan storage:link'$/;"	a
+asrn	laravel-artisan.plugin.zsh	/^alias asrn='artisan schedule:run'$/;"	a
+astb	laravel-artisan.plugin.zsh	/^alias astb='artisan session:table'$/;"	a
+at	laravel-artisan.plugin.zsh	/^alias at='artisan tinker'$/;"	a
+au	laravel-artisan.plugin.zsh	/^alias au='artisan up'$/;"	a
+av	laravel-artisan.plugin.zsh	/^alias av='artisan -V'$/;"	a
+avcc	laravel-artisan.plugin.zsh	/^alias avcc='artisan view:cache'$/;"	a
+avcl	laravel-artisan.plugin.zsh	/^alias avcl='artisan view:clear'$/;"	a
+avpb	laravel-artisan.plugin.zsh	/^alias avpb='artisan vendor:publish'$/;"	a
+laravel-zsh-plugin - artisan commands aliases of Laravel 5+ Framework for zsh	README.md	/^# laravel-zsh-plugin - artisan commands aliases of Laravel 5+ Framework for zsh$/;"	c

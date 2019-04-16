@@ -26,7 +26,7 @@ $ amgs
 2. Clone the repository into a new directory `laravel-artisan` :
 
     ```console
-    git clone https://github.com/crazybooot/laravel-zsh-plugin.git laravel-artisan
+    git clone https://github.com/reisnobre/laravel.zsh.plugin.git laravel-artisan
     ```
 
 3. Enable `laravel-artisan` plugin by adding to your .zshrc configuration file:
@@ -225,6 +225,15 @@ $ amgs
 |ahztm                  |php artisan artisan horizon:terminate
 |ahzto                  |php artisan artisan horizon:timeout
 |ahzwk                  |php artisan artisan horizon:work
+
+#### Passport package 
+
+| Alias                 | Command                                                                                                                                 |
+|:----------------------|:--------------------------------|
+|apspi                  |php artisan passport:install
+|apspc                  |php artisan passport:client
+|apspc                  |php artisan passport:keys
+
 
 #### Old framework versions commands
 
