@@ -84,7 +84,6 @@ alias anftb='artisan notifications:table'
 # optimize
 alias ao='artisan optimize'
 alias aoc='artisan optimize:clear'
-
 # package
 alias apd='artisan package:discover'
 
@@ -135,9 +134,15 @@ alias ahztm='artisan horizon:terminate'
 alias ahzto='artisan horizon:timeout'
 alias ahzwk='artisan horizon:work'
 
+# passport
+alias apspi='artisan passport:install'
+alias apspc='artisan passport:client'
+alias apspk='artisan passport:keys'
+
 # old framework versions commands
 alias amkcs='art_make console'
 alias ahcm='artisan handler:command'
 alias ahev='artisan handler:event'
 alias aqss='artisan queue:subscribe'
 alias afr='artisan fresh'
+
