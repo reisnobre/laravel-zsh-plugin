@@ -6,7 +6,7 @@ function art_make() {
 }
 
 # general
-alias a='artisan'
+alias a='artisan' # -- artisan
 alias av='artisan -V'
 alias acc='artisan clear-compiled'
 alias ad='artisan down'
