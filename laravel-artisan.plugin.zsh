@@ -17,6 +17,7 @@ alias al='artisan list'
 alias ap='artisan preset'
 alias as='artisan serve'
 alias at='artisan tinker'
+alias ati='artisan tinx'
 alias au='artisan up'
 
 #app
